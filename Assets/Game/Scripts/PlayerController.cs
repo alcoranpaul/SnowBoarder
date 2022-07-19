@@ -62,5 +62,6 @@ public class PlayerController : MonoBehaviour
         crashDetected = true;
         torqueForce = 0;
         surfaceEffector2D.speed = 1;
+        
     }
 }
